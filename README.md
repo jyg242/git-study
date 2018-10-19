@@ -5,3 +5,11 @@
 ```bash
     git rm -r node_modules && git add . && git commit -m "message" && git push -u origin master
 ```
+## develop
+```bash
+    建立分支 git checkout -b develop
+    切换分支 git checkout master
+    查看分支 git branch
+    合并分支 git merge feach-01
+    删除分支 git branch -D feach-01
+```
